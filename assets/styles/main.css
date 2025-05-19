@@ -1,4 +1,9 @@
 /* assets/styles/main.css */
 body {
-  font-family: Arial, sans-serif;
+  background-color: #222;
+  color: #ddd;
+}
+
+a {
+  color: #1e90ff;
 }
