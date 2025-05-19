@@ -25,3 +25,9 @@ a {
 .subscribe-btn:hover {
   background-color: #218838;
 }
+
+/* Add footer widget styles in multiple commits */
+.footer-widget {
+  background-color: #f8f9fa;
+  padding: 15px;
+}
