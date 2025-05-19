@@ -1,4 +1,27 @@
 /* assets/styles/main.css */
 body {
   font-family: Arial, sans-serif;
+  background-color: #222;
+  color: #ddd;
+}
+/* assets/styles/main.css */
+header {
+  margin-bottom: 20px;
+}
+
+a {
+  color: #1e90ff;
+}
+
+.subscribe-btn {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.subscribe-btn:hover {
+  background-color: #218838;
 }
